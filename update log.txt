@@ -3,3 +3,4 @@ Created "first-branch"
 Created update log
 Copied main.py from "Guess the number"
 Got words.csv and content of words.py from Oswal, we worked on it on his computer, copied words.py into main.py 
+Completed the simple game
